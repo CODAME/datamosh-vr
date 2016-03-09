@@ -2,6 +2,8 @@
 
 For use with the organic rift/ar setup using the logitech cameras
 
+* Tested using Unity 5.3.1
+
 Shader by Michael Parisi
 
 * Edit shader file: Assets/Standard Assets/Effects/ImageEffects/Shaders/TwirlEffect.shader
