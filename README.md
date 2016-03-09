@@ -1,4 +1,4 @@
-####VR DATAMOSH
+#VR DATAMOSH
 
 For use with the organic rift/ar setup using the logitech cameras
 
