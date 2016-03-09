@@ -7,12 +7,10 @@ Shader by Michael Parisi
 * Edit shader file: Assets/Standard Assets/Effects/ImageEffects/Shaders/TwirlEffect.shader
 * Edit shader controller file: Assets/Standard Assets/Effects/ImageEffects/Scripts/Twirl.cs
 
-Threshold parameter is controlled by the left joystick's Y value
-Offset parameter is controlled by the right joystick's Y value
+* Threshold parameter is controlled by the left joystick's Y value
+* Offset parameter is controlled by the right joystick's Y value
 
-If camera lights are not lighting up after pressing play or if the right and left are switched, you may need to change the camera number:
-
-* Click on the webcam node and change the number in the settings to the right. Play around till you find what works
+*If camera lights are not lighting up after pressing play or if the right and left are switched, you may need to change the camera number: Click on the webcam node and change the number in the settings to the right. Play around till you find what works
 
 
 
